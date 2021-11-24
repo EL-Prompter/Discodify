@@ -1,5 +1,5 @@
 // const API_KEY =  // Get yours for free at https://judge0.com/ce or https://judge0.com/extra-ce
-
+const API_KEY = "52f76f7661mshb6b1940bdc28ad7p1fa76bjsn23e56e049f08";
 var language_to_id = {
   Bash: 46,
   C: 50,

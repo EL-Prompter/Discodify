@@ -1,14 +1,8 @@
-# CodeConnect
+# Discodify
 
-## Pair Programming for Interviews
+## npm install
 
-Code-Connects lets you conduct hassle-free technical interviews in a real-time shared coding environment.
-
-<br> <br>
-
-## Upcoming Features
-
-Powerful Code Editor :Familiar interface with features like syntax highlighting, code completion and Vim/Emacs key bindings
+## npm start
 
 src
 ├───public  
