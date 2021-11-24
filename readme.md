@@ -1,8 +1,14 @@
 # Discodify
 
-## npm install
+<p>yashit bro sunn call kar diyo</p>
 
-## npm start
+```bash
+   npm install
+```
+
+```bash
+   npm start
+```
 
 src
 ├───public  
