@@ -1,7 +1,5 @@
 # Discodify
 
-<p>yashit bro sunn call kar diyo</p>
-
 ```bash
    npm install
 ```
